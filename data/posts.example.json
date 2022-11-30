@@ -1,0 +1,25 @@
+[
+  {
+    "title": "Sears Zemansky",
+    "image": "https://www.google.com.sv/imgres?imgurl=https%3A%2F%2Fcdn-v1.udocz-assets.com%2Fuploads%2Fbook%2Fcover%2F48459%2Ffisica_universitaria_sears_zemansky_13a_edicion_vol_1.jpg&imgrefurl=https%3A%2F%2Fwww.udocz.com%2Fapuntes%2F48459%2Ffisica-universitaria-sears-zemansky-13a-edicion-vol-1&tbnid=wTzFik3Wu1TzNM&vet=12ahUKEwjy5v7uic37AhUoxykDHWShC0MQMygDegUIARDEAQ..i&docid=qnAj_I-Hr9Co2M&w=506&h=640&q=libro%20de%20fisica%20sears%20zemansky&hl=es&authuser=0&ved=2ahUKEwjy5v7uic37AhUoxykDHWShC0MQMygDegUIARDEAQ",
+    "price": "10.99"
+  },
+
+  {
+    "title": "Cálculo multivariable",
+    "image": "https://www.google.com.sv/imgres?imgurl=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F41hoMpM0RVL.jpg&imgrefurl=https%3A%2F%2Farcus-www.amazon.com.mx%2FC%25C3%25A1lculo-varias-variables-Trascendentes-tempranas%2Fdp%2F6074817855&tbnid=kVx-NoSSQ6ApWM&vet=12ahUKEwjj8rL1hc37AhUFdzABHRIoDKAQMygTegUIARDkAQ..i&docid=8H05BLfcKQpWrM&w=390&h=500&q=calculo%20multivariable%20libro&hl=es&authuser=0&ved=2ahUKEwjj8rL1hc37AhUFdzABHRIoDKAQMygTegUIARDkAQ",
+    "price": "8.00"
+  },
+
+  {
+    "title": "Derechos humanos internacionales",
+    "image": "https://www.google.com.sv/imgres?imgurl=https%3A%2F%2Fimages.cdn1.buscalibre.com%2Ffit-in%2F360x360%2Fd6%2F35%2Fd6351f4b4f848ed91ef60a07e59cb106.jpg&imgrefurl=https%3A%2F%2Fwww.buscalibre.us%2Flibro-derechos-humanos-internacionales%2F9786071729866%2Fp%2F48838760&tbnid=3DisJLnpwUcJsM&vet=12ahUKEwjFmoLcic37AhWTDN8KHdi7BqkQMygBegUIARDQAQ..i&docid=sZNiXKAhF21lgM&w=233&h=360&q=libro%20de%20derechos%20humanos&hl=es&authuser=0&ved=2ahUKEwjFmoLcic37AhWTDN8KHdi7BqkQMygBegUIARDQAQ",
+    "price": "9.50"
+  },
+
+  {
+    "title": "Psicología para principiantes",
+    "image": "https://www.google.com.sv/imgres?imgurl=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F51vU9ppKChL.jpg&imgrefurl=https%3A%2F%2Fwww.amazon.com%2F-%2Fes%2FJustin-Santiago-ebook%2Fdp%2FB07RJ1MP6S&tbnid=BoHd5lAbijIATM&vet=12ahUKEwi4j4PLic37AhUWjOAKHUQDD-AQMygOegUIARCDAg..i&docid=Pli3fU98MX_2JM&w=312&h=500&q=libro%20de%20psicologia&hl=es&authuser=0&ved=2ahUKEwi4j4PLic37AhUWjOAKHUQDD-AQMygOegUIARCDAg",
+    "price": "9.50"
+  }
+]
